@@ -22,4 +22,4 @@ Since this project uses only Python's standard library, there are no external de
 **Steps:**
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/tivannn/python-cli-todo.git](https://github.com/tivannn/python-cli-todo.git)
+   git clone https://github.com/tivannn/python-cli-todo.git
