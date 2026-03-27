@@ -19,7 +19,3 @@ Since this project uses only Python's standard library, there are no external de
 **Prerequisites:**
 - Python 3.6 or higher installed on your system.
 
-**Steps:**
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/ivan-tomasso/python-cli-todo.git
