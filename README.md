@@ -1,6 +1,6 @@
 # Python CLI To-Do List
 
-A simple, robust, and easy-to-use CLi To-Do List application written in core Python. 
+A simple, robust, and easy-to-use CLI To-Do List application written in core Python.
 
 This project was built as a foundational exercise to master fundamental programming concepts such as File I/O, error handling, modularity, and working with JSON data, without relying on external or heavy libraries.
 
@@ -17,5 +17,5 @@ This project was built as a foundational exercise to master fundamental programm
 Since this project uses only Python's standard library, there are no external dependencies to install.
 
 **Prerequisites:**
-- Python 3.6 or higher installed on your system.
 
+- Python 3.6 or higher installed on your system.
